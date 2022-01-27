@@ -2,4 +2,3 @@
 
 - [x] psychopg2 用于连接postgredsql
 - [ ] putil 我自己的工具类
-测试测试~
